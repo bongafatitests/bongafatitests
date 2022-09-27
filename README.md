@@ -17,8 +17,6 @@ My CV is available upon request.
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
-
 __Manual testing__
   * I can perform manual functional and usability testing of web and Mobile applications.
 
