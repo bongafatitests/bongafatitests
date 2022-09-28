@@ -4,6 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
 
 ## About me
 
@@ -17,6 +18,9 @@ My CV is available upon request.
 
 ## Skills
 
+__Automation testing__
+* I can write test cases and test suites and write automated tests.
+
 __Manual testing__
   * I can perform manual functional and usability testing of web and Mobile applications.
 
@@ -25,10 +29,16 @@ __Test analysis & design__
 
 __Exploratory testing__
   * I am capable of coming up with different scenarios and create new Test cases to explore the product and thereby thoroughly test it.
+  
+__Performance, Usability and Security testing__
+  * I am able to do Performance testing, Usability testing and security testing on a system through Manual and Automated tests.
 
 __Test documentation__
   * I can create test cases and checklists.
   * I am able to prepare comprehensive bug reports and provide detailed session reports.
+  
+__Agile__
+  * I have successfully applied Agile/Scrum practices.
 
 
 ## Tools
@@ -46,3 +56,7 @@ __Jira__
 
 __ISTQB Foundation Level__  
 *online courses by [Bonga Fati](https://www.udemy.com/course/istqb-foundation-level-software-testing/learn/quiz/5054286/results?expanded=789477388#overview), Udemy*
+
+## Examples of my work
+__An Automated Test Example__
+ ** https://drive.google.com/file/d/1qes8OvUPrvsOQzQZJplth6NrEKRpxtaP/view?usp=sharing
